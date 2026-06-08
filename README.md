@@ -82,8 +82,8 @@ npm install -g pnpm
 ### 3. Clonar el repositorio e instalar dependencias
 
 ```bash
-git clone <url-del-repo>
-cd <nombre-del-repo>
+git clone https://github.com/WayLearnLatam/WayLearn-Solana-Agent.git
+cd WayLearn-Solana-Agent
 pnpm install
 ```
 
